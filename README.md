@@ -14,7 +14,7 @@ For thorough explanation on this project, [CLICK HERE](https://youtu.be/pVisSXJ5
 
 ### Samana Shrestha
 ##### Student ID: 210246
-##### Batch: November '30B'
+##### Batch: May '30B'
 ##### Email-ID : samanashrestha02@gmail.com
 
 <p align="center"><b><u><i> Have a good day! </i></u></b><p>
