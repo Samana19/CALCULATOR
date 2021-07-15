@@ -133,5 +133,5 @@ button.bind("<Button-1>",click)
 frame.pack()
 
 
-root.config(bg="black") #window bgcolor
+root.config(bg="black") #window background color
 root.mainloop()
