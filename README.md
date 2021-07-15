@@ -9,3 +9,7 @@ A simple calculator made using tkinter.
 ## Introduction
 
 This calculator performs arithmetic operations on numbers. Since it is a basic calculator it can do only addition, subtraction, multiplication, exponent, modulo, and division.
+
+## Link
+
+For thorough explanation on this project, [CLICK HERE](https://youtu.be/pVisSXJ5nl8)
