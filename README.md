@@ -13,3 +13,8 @@ This calculator performs arithmetic operations on numbers. Since it is a basic c
 ## Link
 
 For thorough explanation on this project, [CLICK HERE](https://youtu.be/pVisSXJ5nl8)
+
+### Samana Shrestha
+##### Student ID: 210246
+##### Batch: November '30B'
+##### Email-ID : samanashrestha02@gmail.com
