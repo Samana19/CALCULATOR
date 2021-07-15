@@ -8,4 +8,4 @@ A simple calculator made using tkinter.
 
 ## Introduction
 
-It does simple mathematical calculations like addition, subtraction, multiplication, division, modulo etc.
+This calculator performs arithmetic operations on numbers. Since it is a basic calculator it can do only addition, subtraction, multiplication, exponent, modulo, and division.
